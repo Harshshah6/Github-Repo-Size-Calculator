@@ -1,6 +1,8 @@
 # Github-Repo-Size-Calculator
 An GUI application written in python using customtkinter. This calculates an repository size and shows the value in an text.
 
+<img src='./images/image.png'>
+
 ## Setting up workspace
 1. Clone the repository<br>
 `git clone https://github.com/harshshah6/Github-Repo-Size-Calculator.git`
